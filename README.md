@@ -5,6 +5,13 @@
 
 The Job Management Application is a full-stack web application designed to help companies post job openings and job seekers find relevant opportunities. The application consists of a Next.js frontend with Mantine UI components and a NestJS backend with PostgreSQL database.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/7e76b31c-a9eb-480f-9251-9530714f5a25)
+
+![image](https://github.com/user-attachments/assets/174593f4-8e1a-4ef4-99bc-b8fa135e6606)
+
+![image](https://github.com/user-attachments/assets/8ac5ec4e-a78a-43e8-bf7d-0777e7935291)
+
 ## Features
 
 - **Job Listings**: Browse and search for job postings
